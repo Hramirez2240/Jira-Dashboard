@@ -1,0 +1,12 @@
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\bin\Debug\net5.0\Jira-Dashboard.Core.deps.json
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\bin\Debug\net5.0\Jira-Dashboard.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\bin\Debug\net5.0\ref\Jira-Dashboard.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\bin\Debug\net5.0\Jira-Dashboard.Core.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\obj\Debug\net5.0\Jira-Dashboard.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\obj\Debug\net5.0\Jira-Dashboard.Core.AssemblyInfoInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\obj\Debug\net5.0\Jira-Dashboard.Core.AssemblyInfo.cs
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\obj\Debug\net5.0\Jira-Dashboard.Core.csproj.CoreCompileInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\obj\Debug\net5.0\Jira-Dashboard.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\obj\Debug\net5.0\ref\Jira-Dashboard.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\obj\Debug\net5.0\Jira-Dashboard.Core.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Core\obj\Debug\net5.0\Jira-Dashboard.Core.csproj.AssemblyReference.cache

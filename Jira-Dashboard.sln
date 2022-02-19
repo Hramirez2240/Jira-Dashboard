@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Api", "Jira-Dashboard\Jira-Dashboard.Api.csproj", "{C5E29F56-76DA-4E71-ABD7-8E27531A38D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Bl", "Jira-Dashboard.Bl\Jira-Dashboard.Bl.csproj", "{2647D996-00EB-43F1-B545-CD056E626132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Core", "Jira-Dashboard.Core\Jira-Dashboard.Core.csproj", "{20C5E29A-AA5C-43B3-9587-A3F522805979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Model", "Jira-Dashboard.Model\Jira-Dashboard.Model.csproj", "{2ED65001-0BB3-4F3C-A7CC-A9A8E39FAF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Services", "Jira-Dashboard.Services\Jira-Dashboard.Services.csproj", "{607D832A-FC10-42CF-B2E7-B78CD064C0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Tests", "Jira-Dashboard.Tests\Jira-Dashboard.Tests.csproj", "{DC232556-4390-4C10-A07D-257618DD75B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E29F56-76DA-4E71-ABD7-8E27531A38D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E29F56-76DA-4E71-ABD7-8E27531A38D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E29F56-76DA-4E71-ABD7-8E27531A38D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E29F56-76DA-4E71-ABD7-8E27531A38D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2647D996-00EB-43F1-B545-CD056E626132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2647D996-00EB-43F1-B545-CD056E626132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2647D996-00EB-43F1-B545-CD056E626132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2647D996-00EB-43F1-B545-CD056E626132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C5E29A-AA5C-43B3-9587-A3F522805979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C5E29A-AA5C-43B3-9587-A3F522805979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C5E29A-AA5C-43B3-9587-A3F522805979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C5E29A-AA5C-43B3-9587-A3F522805979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED65001-0BB3-4F3C-A7CC-A9A8E39FAF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED65001-0BB3-4F3C-A7CC-A9A8E39FAF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED65001-0BB3-4F3C-A7CC-A9A8E39FAF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED65001-0BB3-4F3C-A7CC-A9A8E39FAF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607D832A-FC10-42CF-B2E7-B78CD064C0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607D832A-FC10-42CF-B2E7-B78CD064C0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607D832A-FC10-42CF-B2E7-B78CD064C0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607D832A-FC10-42CF-B2E7-B78CD064C0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC232556-4390-4C10-A07D-257618DD75B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC232556-4390-4C10-A07D-257618DD75B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC232556-4390-4C10-A07D-257618DD75B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC232556-4390-4C10-A07D-257618DD75B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA8BD3D-D7BE-413B-986B-1760B134BAE0}
+	EndGlobalSection
+EndGlobal

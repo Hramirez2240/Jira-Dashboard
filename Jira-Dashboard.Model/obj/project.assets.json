@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Jira-Dashboard.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Jira-Dashboard.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jira-Dashboard.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jira-Dashboard.Core/1.0.0": {
+      "type": "project",
+      "path": "../Jira-Dashboard.Core/Jira-Dashboard.Core.csproj",
+      "msbuildProject": "../Jira-Dashboard.Core/Jira-Dashboard.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Jira-Dashboard.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hrami\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Model\\Jira-Dashboard.Model.csproj",
+      "projectName": "Jira-Dashboard.Model",
+      "projectPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Model\\Jira-Dashboard.Model.csproj",
+      "packagesPath": "C:\\Users\\hrami\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Model\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hrami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Core\\Jira-Dashboard.Core.csproj": {
+              "projectPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Core\\Jira-Dashboard.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

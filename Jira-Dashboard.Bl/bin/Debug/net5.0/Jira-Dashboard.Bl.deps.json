@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Jira-Dashboard.Bl/1.0.0": {
+        "dependencies": {
+          "Jira-Dashboard.Model": "1.0.0"
+        },
+        "runtime": {
+          "Jira-Dashboard.Bl.dll": {}
+        }
+      },
+      "Jira-Dashboard.Core/1.0.0": {
+        "runtime": {
+          "Jira-Dashboard.Core.dll": {}
+        }
+      },
+      "Jira-Dashboard.Model/1.0.0": {
+        "dependencies": {
+          "Jira-Dashboard.Core": "1.0.0"
+        },
+        "runtime": {
+          "Jira-Dashboard.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jira-Dashboard.Bl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jira-Dashboard.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jira-Dashboard.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

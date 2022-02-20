@@ -1,0 +1,15 @@
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\bin\Release\net5.0\Jira-Dashboard.Model.deps.json
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\bin\Release\net5.0\Jira-Dashboard.Model.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\bin\Release\net5.0\ref\Jira-Dashboard.Model.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\bin\Release\net5.0\Jira-Dashboard.Model.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\bin\Release\net5.0\Jira-Dashboard.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\bin\Release\net5.0\Jira-Dashboard.Core.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\Jira-Dashboard.Model.csproj.AssemblyReference.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\Jira-Dashboard.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\Jira-Dashboard.Model.AssemblyInfoInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\Jira-Dashboard.Model.AssemblyInfo.cs
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\Jira-Dashboard.Model.csproj.CoreCompileInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\Jira-Dashboard.Model.csproj.CopyComplete
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\Jira-Dashboard.Model.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\ref\Jira-Dashboard.Model.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Jira-Dashboard\Jira-Dashboard.Model\obj\Release\net5.0\Jira-Dashboard.Model.pdb

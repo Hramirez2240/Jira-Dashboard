@@ -22,7 +22,7 @@ namespace Jira_Dashboard.Services.Services
         {
             _httpClient = httpClient;
 
-            var encoded = AuthenticateApi.Authentication();
+            string encoded = AuthenticateApi.Authentication();
 
             _httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Basic", encoded);
         }

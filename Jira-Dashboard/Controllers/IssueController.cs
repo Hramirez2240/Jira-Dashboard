@@ -1,4 +1,5 @@
 ﻿using Jira_Dashboard.Bl.Dto;
+using Jira_Dashboard.Model.Enum;
 using Jira_Dashboard.Services.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -26,9 +27,9 @@ namespace Jira_Dashboard.Controllers
         }
 
         [HttpGet("GetOneIssue")]
-        public dynamic Get(int id)
+        public dynamic Get(string JD)
         {
-            dynamic respond = _issueService.Get("https://hramirez2240.atlassian.net/rest/api/latest/issue/JD-" + id.ToString());
+            dynamic respond = _issueService.Get("https://hramirez2240.atlassian.net/rest/api/latest/issue/" + JD);
 
             return respond;
         }
@@ -42,25 +43,27 @@ namespace Jira_Dashboard.Controllers
         }
 
         [HttpPut]
-        public async Task<dynamic> Update(int id, IssueDto dto)
+        public async Task<dynamic> Update(string JD, IssueDto dto)
         {
-            dynamic respond = await _issueService.Update("https://hramirez2240.atlassian.net/rest/api/latest/issue/JD-" + id.ToString(), dto);
+            dynamic respond = await _issueService.Update("https://hramirez2240.atlassian.net/rest/api/latest/issue/" + JD, dto);
 
             return respond;
         }
 
         [HttpDelete]
-        public async Task<string> Delete(int id)
+        public async Task<string> Delete(string JD)
         {
-            dynamic respond = await _issueService.Delete("https://hramirez2240.atlassian.net/rest/api/latest/issue/JD-" + id.ToString());
+            dynamic respond = await _issueService.Delete("https://hramirez2240.atlassian.net/rest/api/latest/issue/" + JD);
 
             return respond;
         }
 
         [HttpPost("ChangeIssueStatus")]
-        public async Task<string> IssueStatus(string id, string statusNumber)
+        public async Task<string> IssueStatus(string JD, IssueState issueState)
         {
-            dynamic respond = await _issueService.ChangeIssueStatus($"https://hramirez2240.atlassian.net/rest/api/2/issue/JD-{id}/transitions?expand=transitions.fields", statusNumber);
+            var state = (int)issueState;
+
+            dynamic respond = await _issueService.ChangeIssueStatus($"https://hramirez2240.atlassian.net/rest/api/2/issue/{JD}/transitions?expand=transitions.fields", state.ToString());
 
             return respond;
         }

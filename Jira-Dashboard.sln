@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Api", "Jira-Dashboard\Jira-Dashboard.Api.csproj", "{C5E29F56-76DA-4E71-ABD7-8E27531A38D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira-Dashboard.Api", "Jira-Dashboard\Jira-Dashboard.Api.csproj", "{C5E29F56-76DA-4E71-ABD7-8E27531A38D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Bl", "Jira-Dashboard.Bl\Jira-Dashboard.Bl.csproj", "{2647D996-00EB-43F1-B545-CD056E626132}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira-Dashboard.Bl", "Jira-Dashboard.Bl\Jira-Dashboard.Bl.csproj", "{2647D996-00EB-43F1-B545-CD056E626132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Core", "Jira-Dashboard.Core\Jira-Dashboard.Core.csproj", "{20C5E29A-AA5C-43B3-9587-A3F522805979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira-Dashboard.Core", "Jira-Dashboard.Core\Jira-Dashboard.Core.csproj", "{20C5E29A-AA5C-43B3-9587-A3F522805979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Model", "Jira-Dashboard.Model\Jira-Dashboard.Model.csproj", "{2ED65001-0BB3-4F3C-A7CC-A9A8E39FAF41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira-Dashboard.Model", "Jira-Dashboard.Model\Jira-Dashboard.Model.csproj", "{2ED65001-0BB3-4F3C-A7CC-A9A8E39FAF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Services", "Jira-Dashboard.Services\Jira-Dashboard.Services.csproj", "{607D832A-FC10-42CF-B2E7-B78CD064C0CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira-Dashboard.Services", "Jira-Dashboard.Services\Jira-Dashboard.Services.csproj", "{607D832A-FC10-42CF-B2E7-B78CD064C0CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira-Dashboard.Tests", "Jira-Dashboard.Tests\Jira-Dashboard.Tests.csproj", "{DC232556-4390-4C10-A07D-257618DD75B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira-Dashboard.Tests", "Jira-Dashboard.Tests\Jira-Dashboard.Tests.csproj", "{DC232556-4390-4C10-A07D-257618DD75B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailFunction", "EmailFunction\EmailFunction.csproj", "{7E456072-3EC8-4656-B6C9-5908F59E5942}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DC232556-4390-4C10-A07D-257618DD75B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC232556-4390-4C10-A07D-257618DD75B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC232556-4390-4C10-A07D-257618DD75B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E456072-3EC8-4656-B6C9-5908F59E5942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E456072-3EC8-4656-B6C9-5908F59E5942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E456072-3EC8-4656-B6C9-5908F59E5942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E456072-3EC8-4656-B6C9-5908F59E5942}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

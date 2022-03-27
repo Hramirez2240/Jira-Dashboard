@@ -8,7 +8,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword />
     <_PublishTargetUrl>ftp://waws-prod-bn1-147.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
-    <History>True|2022-02-19T18:07:35.6393660Z;True|2022-02-19T13:44:46.9863436-04:00;True|2022-02-19T13:40:01.9017361-04:00;False|2022-02-19T13:37:18.2732131-04:00;False|2022-02-19T06:30:33.5577848-04:00;</History>
+    <History>True|2022-02-20T01:00:59.2328255Z;False|2022-02-19T21:00:09.3789339-04:00;True|2022-02-19T14:07:35.6393660-04:00;True|2022-02-19T13:44:46.9863436-04:00;True|2022-02-19T13:40:01.9017361-04:00;False|2022-02-19T13:37:18.2732131-04:00;False|2022-02-19T06:30:33.5577848-04:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.Development.json">
@@ -18,25 +18,25 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>02/19/2022 01:07:07</publishTime>
     </File>
     <File Include="Jira-Dashboard.Api.deps.json">
-      <publishTime>02/19/2022 14:07:01</publishTime>
+      <publishTime>02/19/2022 21:00:24</publishTime>
     </File>
     <File Include="Jira-Dashboard.Api.dll">
-      <publishTime>02/19/2022 14:07:01</publishTime>
+      <publishTime>02/19/2022 21:00:24</publishTime>
     </File>
     <File Include="Jira-Dashboard.Api.exe">
-      <publishTime>02/19/2022 14:07:01</publishTime>
+      <publishTime>02/19/2022 21:00:24</publishTime>
     </File>
     <File Include="Jira-Dashboard.Api.pdb">
-      <publishTime>02/19/2022 14:07:01</publishTime>
+      <publishTime>02/19/2022 21:00:24</publishTime>
     </File>
     <File Include="Jira-Dashboard.Api.runtimeconfig.json">
       <publishTime>02/19/2022 06:30:01</publishTime>
     </File>
     <File Include="Jira-Dashboard.Bl.dll">
-      <publishTime>02/19/2022 06:29:59</publishTime>
+      <publishTime>02/19/2022 20:59:35</publishTime>
     </File>
     <File Include="Jira-Dashboard.Bl.pdb">
-      <publishTime>02/19/2022 06:29:59</publishTime>
+      <publishTime>02/19/2022 20:59:35</publishTime>
     </File>
     <File Include="Jira-Dashboard.Core.dll">
       <publishTime>02/19/2022 06:29:58</publishTime>
@@ -45,16 +45,16 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>02/19/2022 06:29:58</publishTime>
     </File>
     <File Include="Jira-Dashboard.Model.dll">
-      <publishTime>02/19/2022 06:29:59</publishTime>
+      <publishTime>02/19/2022 20:59:34</publishTime>
     </File>
     <File Include="Jira-Dashboard.Model.pdb">
-      <publishTime>02/19/2022 06:29:59</publishTime>
+      <publishTime>02/19/2022 20:59:34</publishTime>
     </File>
     <File Include="Jira-Dashboard.Services.dll">
-      <publishTime>02/19/2022 14:06:48</publishTime>
+      <publishTime>02/19/2022 20:59:36</publishTime>
     </File>
     <File Include="Jira-Dashboard.Services.pdb">
-      <publishTime>02/19/2022 14:06:48</publishTime>
+      <publishTime>02/19/2022 20:59:36</publishTime>
     </File>
     <File Include="Microsoft.OpenApi.dll">
       <publishTime>08/29/2020 16:14:12</publishTime>
@@ -63,7 +63,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>03/17/2021 16:03:36</publishTime>
     </File>
     <File Include="RestSharp.dll">
-      <publishTime>02/11/2022 11:06:06</publishTime>
+      <publishTime>11/02/2022 11:06:06</publishTime>
     </File>
     <File Include="Swashbuckle.AspNetCore.Swagger.dll">
       <publishTime>09/23/2020 08:47:20</publishTime>
@@ -75,7 +75,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>09/23/2020 08:47:24</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>02/19/2022 14:07:01</publishTime>
+      <publishTime>02/19/2022 21:00:24</publishTime>
     </File>
   </ItemGroup>
 </Project>

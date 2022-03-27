@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Bl\\Jira-Dashboard.Bl.csproj",
+      "projectUniqueName": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Bl\\Jira-Dashboard.Bl.csproj",
       "projectName": "Jira-Dashboard.Bl",
-      "projectPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Bl\\Jira-Dashboard.Bl.csproj",
+      "projectPath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Bl\\Jira-Dashboard.Bl.csproj",
       "packagesPath": "C:\\Users\\hrami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Bl\\obj\\",
+      "outputPath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Bl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hrami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://solvexdominicana.pkgs.visualstudio.com/_packaging/SolvexLibraries%40Local/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Model\\Jira-Dashboard.Model.csproj": {
-              "projectPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Model\\Jira-Dashboard.Model.csproj"
+            "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Model\\Jira-Dashboard.Model.csproj": {
+              "projectPath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Model\\Jira-Dashboard.Model.csproj"
             }
           }
         }

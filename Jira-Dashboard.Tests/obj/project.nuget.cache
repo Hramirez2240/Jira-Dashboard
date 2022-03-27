@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wrXQDYqmNvhUDyG6KE8n26Qry43/+qnFTNEg5az0lR/tM+bs9D6UNezJpuyVOCxt7vxWQ1I4QK25DbfJ1wcr6Q==",
+  "dgSpecHash": "hrwqD2N2akBs8WUBLXYzQSa6E97ytIMiROsHz2Hjx0amGlL0q/7+FYbgdg93opC3cCm/y/Eg4kjLMyExw/KLjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Tests\\Jira-Dashboard.Tests.csproj",
+  "projectFilePath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Jira-Dashboard\\Jira-Dashboard.Tests\\Jira-Dashboard.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrami\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\hrami\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
